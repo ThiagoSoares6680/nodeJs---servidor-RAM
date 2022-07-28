@@ -3,9 +3,6 @@
 
 ### Iniciando o projeto
 
-<p>Baixe o repositório pra sua máquina local para servir de guia na hora da live</p>
-
-
 ### o que é o NodeJS?
 
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" width="300px" alt="logo nodejs"/>
