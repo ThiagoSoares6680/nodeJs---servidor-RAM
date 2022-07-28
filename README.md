@@ -72,11 +72,5 @@ Usage | porcentagem de uso
 
 <img src='https://github.com/DianaMartine/nodeJs-liveCoding-DIO/blob/main/Nodejs/assets/pcRamUsage.png?raw=true' alt='pcRamUsage' />
 
-### Mas antes...
 
-Vamos instalar as ferramentas e deixar o ambiente nos trinques.</br></br>
-
-Links para baixar as ferramentas:</br>
-[NodeJS](https://nodejs.org/en/)</br>
-[VSCode](https://code.visualstudio.com/)
 
