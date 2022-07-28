@@ -50,8 +50,6 @@ Isso tudo em tempo real 😮😮😮.
 Com a criação do NodeJS também surgiu o NPM. que é uma ferramenta de gerenciamento de pacotes do Node, serve pra gente dar um upgrade nos nossos projetos usando frameworks e bibliotecas.</br></br>
 Imagine um repositório gigantesco com inúmeras ferramentas de desenvolvimento... esse é o NPM do NodeJS.
 
-## Bora praticar?
-
 ### O que vamos fazer:
 
 <p>Criar um servidor, subir e devolver uma mensagem em JSON com informações de uso da memória RAM."</p></br></br>
@@ -82,7 +80,3 @@ Links para baixar as ferramentas:</br>
 [NodeJS](https://nodejs.org/en/)</br>
 [VSCode](https://code.visualstudio.com/)
 
-### Segue esse link que tem o passo a passo da live:
-
-* link do resumo no Notion:
-<a>https://aeolian-caution-e12.notion.site/Introdu-o-ao-Node-js-com-JavaScript-conceitos-e-pr-tica-2d796ff73ccc49db92ca138467832dac</a>
