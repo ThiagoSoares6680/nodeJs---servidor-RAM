@@ -1,4 +1,4 @@
-# nodeJs-liveCoding
+# nodeJs-Coding
 
 
 ### Iniciando o projeto
